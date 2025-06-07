@@ -71,7 +71,6 @@ search_btn.addEventListener('click',(e)=>{
         console.log("Searching for:", search_input);
     } else {
         alert("Please enter a recipe name.");
-
     }
     console.log("button clicked");
 })
